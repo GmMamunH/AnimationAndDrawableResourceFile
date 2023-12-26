@@ -1,4 +1,4 @@
-# Custom Drawable Resource File <a href="[https://gmmamunh.github.io/AnimationAndDrawableResourceFile/](https://github.com/GmMamunH/AnimationAndDrawableResourceFile)"> GitHub </a>
+# Custom Drawable Resource File <a href="https://gmmamunh.github.io/AnimationAndDrawableResourceFile/"> GitHub </a>
 ## 1: bottom_curved.xml
 ```js
 <?xml version="1.0" encoding="utf-8"?>
